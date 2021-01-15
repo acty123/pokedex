@@ -1,4 +1,5 @@
-This project was created with [Django](https://www.djangoproject.com/) and [Django Rest framework](https://www.django-rest-framework.org/).
+This project was created with [Django](https://www.djangoproject.com/) and [Django Rest framework](https://www.django-rest-framework.org/).<br>
+Use API [https://pokeapi.co/](https://pokeapi.co/) to consult poke data.<br>
 Install requirements to work and migrations
 
 ## Runs the app <br>
