@@ -1,4 +1,4 @@
-This project was created with [Django](https://www.djangoproject.com/) and [Create React App](https://www.django-rest-framework.org/).
+This project was created with [Django](https://www.djangoproject.com/) and [Django Rest framework](https://www.django-rest-framework.org/).
 Install requirements to work and migrations
 
 ## Runs the app <br>
